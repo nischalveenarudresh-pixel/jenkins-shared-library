@@ -1,1 +1,1 @@
-Jenkins shared repo. New changes add to it and refer in your Jenkins pipeline
+Add the frequently used pipeline scripts in vars/ folder and refer as needed in your Jenkins pipeline jobs.
